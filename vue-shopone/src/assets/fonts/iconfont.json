@@ -1,0 +1,72 @@
+{
+  "id": "1921572",
+  "name": "vue_shop",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1127367",
+      "name": "用户",
+      "font_class": "user",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "6554314",
+      "name": "数据统计",
+      "font_class": "shujutongji",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "7473686",
+      "name": "订单管理",
+      "font_class": "dingdanguanli",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "11808033",
+      "name": "权限",
+      "font_class": "quanxian",
+      "unicode": "e69c",
+      "unicode_decimal": 59036
+    },
+    {
+      "icon_id": "15351188",
+      "name": "商品管理",
+      "font_class": "shangpinguanli",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "4034158",
+      "name": "用户名-登录页",
+      "font_class": "geren",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "14151838",
+      "name": "密码",
+      "font_class": "mima1",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "4427373",
+      "name": "用户",
+      "font_class": "tubiaozhizuomobanyihuifu-",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "10605731",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    }
+  ]
+}
